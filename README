@@ -1,0 +1,12 @@
+Anforderungen:
+    
+    Docker Engine 20.10.17
+    postgres public image von Docker Hub
+    Java 18
+    Apache Maven 3.8.6
+
+Ausführung:
+
+Benutze das Kommando ./Execute.sh und warte bis die Konsole "Application is started" ausgibt. 
+Danach kann mittles der URL "localhost:8080/betriebsstelle/{abkuerzung}" GET-Requests ausgeführt werden. 
+Zum Beenden muss die Tastenkombination Strg+C verwendet werden.
